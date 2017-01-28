@@ -1,0 +1,16 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "json2csv": "^3.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "author": "Nayson Russier",
+  "license": "MIT"
+}
